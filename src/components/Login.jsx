@@ -11,7 +11,7 @@ const SentyaLoginDesigns = () => {
     { name: 'Futurista Cyberpunk', class: 'cyberpunk', description: 'Futurista con efectos neón' },
     { name: 'Google canon', class: 'material', description: 'Siguiendo guías de Google' },
     { name: 'Retro 80s', class: 'retro', description: 'Gradientes y estética retro' },
-    { name: 'Corporativo de viejo choto', class: 'corporate', description: 'Profesional empresarial' },
+    { name: 'Corporativo', class: 'corporate', description: 'Profesional empresarial' },
     { name: 'Tonos Pastel', class: 'pastel', description: 'Colores suaves y delicados' },
     { name: 'Grandes contrastes de estilos', class: 'high-contrast', description: 'Máxima accesibilidad' }
   ];
